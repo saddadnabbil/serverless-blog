@@ -3,9 +3,9 @@ title: "Berusaha"
 description: 'Apa kabar jika kita tidak bisa berucap, hingga tangan sulit untuk menggengam. Selamat sore kawan, kita sepertinya harus mengakhiri kebahagiaan sampai disini,'
 heroImage: '/thumbnail/berusaha.jpg'
 pubDate: "2022-08-14"
-categories: ["kotak-surat"]
+categories: ["Serius"]
 authors: ['saddadnabbil']
-tags: ["Serius"]
+tags: ["kotak-surat"]
 ---
 
 Apa kabar jika kita tidak bisa berucap, hingga tangan sulit untuk menggengam.

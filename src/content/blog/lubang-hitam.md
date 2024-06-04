@@ -3,9 +3,9 @@ title: "Lubang Hitam"
 description: 'Hitam berarti buruk, menyeramkan, dan tertindas. putih berarti suci, bersih, dan terlihat. Tidak, pernyataan itu tidak benar. Setiap orang berhak bahagia atas segala hal,'
 heroImage: '/thumbnail/lubang-hitam.jpg'
 pubDate: "2022-04-21"
-categories: ["kotak-surat"]
+categories: ['kotak-surat']
 authors: ['saddadnabbil']
-tags: ['kotak-surat']
+tags: ["kotak-surat"]
 ---
 
 Hitam berarti buruk, menyeramkan, dan tertindas. putih berarti suci, bersih, dan terlihat.
