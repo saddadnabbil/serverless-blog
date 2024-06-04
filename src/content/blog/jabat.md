@@ -8,6 +8,10 @@ authors: ['saddadnabbil']
 tags: ["Bucin"]
 ---
 
+<div>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/73ZHqY7Ma03NpKiKs26yQU?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+
 HEI BACK YI JIN! Kamu kira, kamu doang yang punya musim panas, nih ane juga punya. Lebih indah dari dramamu, dan lebih ngangenin daripada rindumu kepada Na Hee Do.
 
 HEI BACK YI JIN! Musim panas 1999 itu milikmu, tapi musim panas 2021 ini sudah jadi milik kami, Pantai anyer, atau carita aku sudah lupa. Tapi yang terpenting musim panas 2021 ini milik kami para jabat, Jablay Tobat.
