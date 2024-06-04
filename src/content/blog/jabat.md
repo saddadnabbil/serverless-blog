@@ -1,7 +1,7 @@
 ---
 title: "Jabat #1"
 description: 'HEI BACK YI JIN! Kamu kira, kamu doang yang punya musim panas, nih ane juga punya. Lebih indah dari dramamu, dan lebih ngangenin daripada rindumu kepada Na Hee Do.'
-heroImage: '/thumbnail/jabat1.jpg'
+heroImage: '/thumbnail/jabat1-1.jpg'
 pubDate: "2022-04-07"
 categories: ["Daily"]
 authors: ['saddadnabbil']
@@ -24,11 +24,11 @@ HEI… ! Ga tau mau nyebut siapa lagi.
 
 <figure>
 
-![](/thumbnail/jabat1-1.jpg)
+![](/thumbnail/jabat1.jpg)
 
 <figcaption>
 
-btw itu bacpak bacpak pengen ikutan foto aja:(
+*btw itu bacpak bacpak pengen ikutan foto aja:(
 
 </figcaption>
 
