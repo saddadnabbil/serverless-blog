@@ -3,9 +3,9 @@
     "title": "Tipis-Tipis Menulis",
     "base_url": "https://ev0.gndx.io",
     "base_path": "/",
-    "favicon": "/logo.png",
-    "logoLight": "/logo.png",
-    "logoDark": "/logo.png",
+    "favicon": "/logoLight.png",
+    "logoLight": "/logoLight.png",
+    "logoDark": "/logoDark.png",
     "lang": "en",
     "description": "Seorang penjelajah waktu sambil minum teh dari dimensi lain. Menghabiskan waktunya untuk mencari tahu resep rahasia Pisang Goreng Madu Bu Nanik",
     "pageSize": 6
@@ -20,7 +20,7 @@
   },
   "author": {
     "name": "Saddad Nabbil",
-    "avatar": "/logo.png",
+    "avatar": "/logoDark.png",
     "bio": "Seorang penjelajah waktu sambil minum teh dari dimensi lain. Menghabiskan waktunya untuk mencari tahu resep rahasia Pisang Goreng Madu Bu Nanik"
   }
 }
