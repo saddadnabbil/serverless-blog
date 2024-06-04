@@ -1,6 +1,6 @@
 ---
 title: "Mungkin"
-description: 'Tawa terluapkan, hingga semua terdiam.'
+description: 'Tawa terluapkan, hingga semua terdiam. Aku saat itu duduk terdiam menatap hingga asap menyadarkanku betapa kuatnya waktu, betapa cepatnya kenangan berlalu. '
 heroImage: '/thumbnail/mungkin.jpg'
 pubDate: "2022-07-22"
 categories: ["Serius"]

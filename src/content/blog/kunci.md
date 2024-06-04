@@ -1,6 +1,6 @@
 ---
 title: "Kunci"
-description: 'Apa yang membuat kalian semua bisa berpikir? Kalo hati kalian semua terkunci'
+description: 'Apa yang membuat kalian semua bisa berpikir? Kalo hati kalian semua terkunci, bagaimana membuka kunci yang sudah ditutup rapa-rapat? Bagaimana bisa kita menemukan kunci tersebut?'
 heroImage: '/thumbnail/kunci.jpg'
 pubDate: "2022-04-20"
 categories: ["Serius"]
