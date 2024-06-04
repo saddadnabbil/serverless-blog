@@ -3,9 +3,9 @@ title: "Huhah"
 description: 'Tulisan ini tidak ada arti, _skip_ aja yaaa. Udah hampir 3 bulan, tinggal di ibu kota. Tidak ada yang menarik selain mendapat pengalaman baru, '
 heroImage: '/thumbnail/huhah.jpg'
 pubDate: "2022-06-07"
-categories: ["Gabut"]
+categories: ["Daily"]
 authors: ['saddadnabbil']
-tags: []
+tags: ['Gabut']
 ---
 
 Tulisan ini tidak ada arti, _skip_ aja yaaa
