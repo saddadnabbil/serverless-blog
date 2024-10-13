@@ -37,7 +37,8 @@ export default defineConfig({
     gzip: true,
     brotli: true
   }), sitemap(), tailwind(), robotsTxt(), react(), markdoc(), keystatic()],
-  output: 'hybrid',
+  output: 'hybrid', 
+  adapter: netlify(),
   vite: {
     plugins: [VitePWA({
       registerType: 'autoUpdate',
