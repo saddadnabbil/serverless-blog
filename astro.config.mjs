@@ -1,4 +1,5 @@
 import { defineConfig } from 'astro/config';
+import netlify from '@astrojs/netlify/functions'; 
 import mdx from '@astrojs/mdx';
 import tailwind from '@astrojs/tailwind';
 import compressor from "astro-compressor";
@@ -37,7 +38,8 @@ export default defineConfig({
     gzip: true,
     brotli: true
   }), sitemap(), tailwind(), robotsTxt(), react(), markdoc(), keystatic()],
-  output: 'hybrid',
+  output: 'hybrid', 
+  adapter: netlify(), 
   vite: {
     plugins: [VitePWA({
       registerType: 'autoUpdate',
