@@ -38,8 +38,8 @@ export default defineConfig({
     gzip: true,
     brotli: true
   }), sitemap(), tailwind(), robotsTxt(), react(), markdoc(), keystatic()],
-  output: 'hybrid', 
-  adapter: netlify(), 
+  output: 'server', // or 'hybrid', depending on your requirements
+  adapter: netlify(), // Use the Netlify adapter
   vite: {
     plugins: [VitePWA({
       registerType: 'autoUpdate',
