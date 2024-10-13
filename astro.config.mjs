@@ -1,5 +1,5 @@
 import { defineConfig } from 'astro/config';
-import netlify from '@astrojs/netlify/functions'; 
+import netlify from '@astrojs/netlify';
 import mdx from '@astrojs/mdx';
 import tailwind from '@astrojs/tailwind';
 import compressor from "astro-compressor";
@@ -11,6 +11,7 @@ import { manifest } from './src/utils/manifest';
 import react from "@astrojs/react";
 import markdoc from "@astrojs/markdoc";
 import keystatic from '@keystatic/astro'
+import path from 'path'; 
 
 // https://astro.build/config
 export default defineConfig({
@@ -38,8 +39,8 @@ export default defineConfig({
     gzip: true,
     brotli: true
   }), sitemap(), tailwind(), robotsTxt(), react(), markdoc(), keystatic()],
-  output: 'server', // or 'hybrid', depending on your requirements
-  adapter: netlify(), // Use the Netlify adapter
+  output: 'server', // or 'hybrid', depending on your needs
+  adapter: netlify(),
   vite: {
     plugins: [VitePWA({
       registerType: 'autoUpdate',
@@ -49,6 +50,11 @@ export default defineConfig({
         globPatterns: ['**/*.{js,css,svg,png,jpg,jpeg,gif,webp,woff,woff2,ttf,eot,ico}'],
         navigateFallback: null
       }
-    })]
+    })],
+    resolve: {
+      alias: {
+        '@config': path.resolve('./src/config'), // Ensure correct path
+      },
+    },
   }
 });
